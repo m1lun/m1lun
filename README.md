@@ -3,6 +3,12 @@
 <!--
 **m1lun/m1lun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hi I'm Milun Gracias-Taplay, a Computer Engineering Student at UBC!
+
+Looking towards leading innovation in software engineering!
+
+Languages: Java, C++, C, ARM
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
