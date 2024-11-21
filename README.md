@@ -1,8 +1,8 @@
 Hi I'm Milun Gracias-Taplay, a Computer Engineering Student at UBC!
 
-Looking towards leading innovation in software engineering!
+Looking towards leading innovation in computer engineering!
 
-Languages: Java, C++, C, Python, ARM
+Languages/HDLs: Java, C++, C, Python, SystemVerilog
 
 <!--
 **m1lun/m1lun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
