@@ -76,27 +76,28 @@ body {
   
   #projects ul li {
     width: 250px;
-    padding: 20px;
     background-color: #1e1e1e;
     border-radius: 15px;
     transition: background-color 0.3s, transform 0.2s;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     cursor: pointer;
+    display: block;
   }
   
   #projects ul li:hover {
-    background-color: #8af77b;
-    color: #121212;
     transform: scale(1.03);
   }
   
   #projects ul li a {
     display: block;
     text-decoration: none;
+    padding: 20px;
     color: inherit;
+    height: 100%
   }
   
   #projects ul li h3 {
+    margin-top: 10px;
     margin-bottom: 10px;
   }
   
